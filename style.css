@@ -1,0 +1,35 @@
+body {
+
+    text-align: center;
+    background color: linear-gradient (#E1BEE7 0%, #90CAF9 100%);
+
+}
+
+img {
+    width:50px;
+    border-radius: 50%
+
+}
+
+h1 {
+
+    font-size: 20px;
+    font-family: cursive;
+}
+
+p {
+
+    font-size: 18px;
+    color: aliceblue;
+}
+
+.line {
+    background-color: black;
+    height: 6px;
+    width: 70px;
+}
+
+#bio {
+    font-size: 18px;
+    text-align: center;
+}
